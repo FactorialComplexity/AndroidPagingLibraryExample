@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaginationExample</string>
+    <string name="cat_id_placeholder">Cat ID: %s</string>
+    <string name="retry">Retry</string>
+    <string name="could_not_load_list">Could not load list</string>
+    <string name="gif_with_cat">Gif with cat</string>
+</resources>
